@@ -3,12 +3,13 @@
 import sys
 
 sum = 0
-n = 0
+x = 0
 
 # Sum input values
 for num in open('data.txt'):
 	sum += float(num)
-	n += 1
-# print the sum
-print sum / n
-print n	
+	x += 1
+# output mean and x
+print sum / x
+print x	
+
