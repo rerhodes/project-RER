@@ -1,3 +1,4 @@
+# Hello! :)
 # Print the mean of the numbers given in a file
 
 import sys
